@@ -1,3 +1,26 @@
+:root{
+    --verdeazul:#e3e4e4;
+    --verdeclaro:#dce4dc;
+    --verde:#9caca4;
+    --rojorosa:#d4c4c4;
+    --marron:#dcd4cc;
+    --azul:#444c54;
+}
+
 body{
-    background-color: blueviolet;
+    background-color: var(--rojorosa);
+    margin: 0;
+}
+
+header{
+    display: flex;
+    background-color: var(--verdeazul);
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo{
+    display: flex;
 }
