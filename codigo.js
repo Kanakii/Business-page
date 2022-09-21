@@ -1,1 +1,1 @@
-alert("Hola Mundo")
+console.log ("hola mundo");

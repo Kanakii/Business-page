@@ -21,6 +21,14 @@ header{
     padding: 10px;
 }
 
-.logo{
+nav{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+
+
+
+
+
